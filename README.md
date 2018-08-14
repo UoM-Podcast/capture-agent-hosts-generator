@@ -1,5 +1,5 @@
-#Capture Agent Hosts Generator
-##Generate an Ansible-compatible hosts file from a Google Sheet
+# Capture Agent Hosts Generator
+## Generate an Ansible-compatible hosts file from a Google Sheet
 
 This is used to generate an ansible inventory file for use with https://github.com/UoM-Podcast/capture-agent-ansible
 There was an existing Google Sheets for keeping Capture Agent information in and it was the days before ansible dynamic
