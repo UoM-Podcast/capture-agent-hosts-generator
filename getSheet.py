@@ -2,7 +2,7 @@ from __future__ import print_function
 
 __author__ = 'andrew wilson'
 
-"""# Copyright 2018 Google LLC
+# Copyright 2018 Google LLC
 # Copyright 2018 The University of Manchester
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,7 +16,6 @@ __author__ = 'andrew wilson'
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""
 
 from googleapiclient.discovery import build
 from httplib2 import Http
