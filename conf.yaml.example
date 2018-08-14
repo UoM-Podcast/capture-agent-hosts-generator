@@ -1,0 +1,8 @@
+#YAML
+# The full google sheet id (find in google sheet URL)
+spreadsheet-id: 1g1sRqUJXVejfOj0WcHnc_6MO5jQ3kCl5JzlSDcBIDBY
+# The worksheet in the spreadsheet's full name
+capture-agents-sheet-name: Sheet1
+# Ansible host file absolute path location to save
+ansible-staging-hosts: staging
+ansible-live-hosts: production
